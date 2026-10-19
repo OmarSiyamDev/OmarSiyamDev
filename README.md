@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Omar Siyam 👋
 
-<!--
-**OmarSiyamDev/OmarSiyamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the Islamic University of Gaza (2nd year).
+Computer Community Chair at the IEEE Student Branch, and a member of the Engineering Club.
+Looking for internship opportunities in software development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C#, JavaScript, Python, C++, SQL
+- **Concepts:** OOP, LINQ, REST APIs, ES6 Modules, Regular Expressions
+- **Design:** UI/UX with Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Vehicle Fleet Management System** – C# OOP console app (inheritance, polymorphism, LINQ, Regex, file handling)
+- **Online Product Store** – JavaScript CRUD app with REST API integration
+- **Wasla** – Delivery app UI/UX design in Figma
+
+## 🎓 Certifications
+- IBM – Python for Data Science, AI & Development
+- Huawei ICT Academy – Python Programming Basics
+- Arizona State University – English Proficiency Test (96%)
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/omar-siyam-62a312393) | siamomar82@gmail.com
